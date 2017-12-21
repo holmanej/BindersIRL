@@ -1,0 +1,30 @@
+﻿<Window x:Class="BetterBinderBuilder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BetterBinderBuilder"
+        mc:Ignorable="d"
+        Title="BetterBinderBuilder" Height="610" Width="650" ResizeMode="NoResize">
+    <Grid Name="Main_Grid">
+        <TabControl Name="Tierlist" Margin="0,60,450,15" TabStripPlacement="Left">
+            
+        </TabControl>
+
+        <Border Margin="200, 100, 10, 170" BorderBrush="Black" BorderThickness="2">
+            <Grid Margin="0, 10, 0, 0" Name="Unit_Tree" Width="422">
+            </Grid>
+        </Border>
+
+        <Border Margin="200, 60, 10, 475" BorderBrush="Black" BorderThickness="2">
+            <Grid Name="Unit_Parents" Margin="5, 5, 0, 0">
+                
+            </Grid>
+        </Border>
+
+        <Grid Name="UnitInfo_Holder">
+            <Border Margin="200, 410, 10, 15" BorderBrush="Black" BorderThickness="2"></Border>
+        </Grid>
+        
+    </Grid>
+</Window>
