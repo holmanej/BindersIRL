@@ -1,0 +1,15 @@
+id
+name
+level
+cost
+health
+mana
+damage
+attackType
+attackRange
+attackSpeed
+armorType
+moveSpeed
+abilities
+children
+parents

@@ -1,0 +1,511 @@
+u0
+Basic Fighter
+1
+3000
+500
+null
+2
+Normal
+Melee
+Slow
+Medium
+Fast
+null
+null
+Apprentice,Archer,Flame Apprentice,Footman,Lap Dog,Militia Commander,Raccoon,Rock Golem,Toad Man
+
+u1
+Archer
+2
+4000
+200
+null
+22
+Piercing
+500
+Fast
+Medium
+Average
+?
+Basic Fighter
+Rifleman
+
+u2
+Raccoon
+2
+3000
+300
+100
+5
+Normal
+Melee
+Very Fast
+Heavy
+Very Slow
+null
+Basic Fighter
+Pack Mule
+
+u3
+Rock Golem
+2
+4000
+500
+400
+15
+Siege
+Melee
+Slow
+Heavy
+Average
+?
+Basic Fighter
+Stone Golem
+
+u4
+Toad Man
+2
+6000
+350
+null
+25
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Basic Fighter
+Sea Turtle
+
+u5
+Flame Apprentice
+2
+6000
+225
+200
+10
+Magic
+600
+Slow
+Medium
+Average
+?
+Basic Fighter
+Flame Conjurer
+
+u6
+Apprentice
+2
+5000
+200
+400
+10
+Magic
+600
+Slow
+Medium
+Average
+?
+Basic Fighter
+Wizard
+
+u7
+Lap Dog
+2
+3000
+200
+null
+15
+Normal
+Melee
+Fast
+Heavy
+Fast
+?
+Basic Fighter
+Hunting Dog
+
+u8
+Footman
+2
+4000
+350
+null
+15
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Basic Fighter
+Captain
+
+u9
+Militia Commander
+2
+0
+500
+null
+36
+Normal
+Melee
+Fast
+Heavy
+Average
+Command Aura
+Basic Fighter,Basic Fighter,Basic Fighter
+Secret Spy
+
+u10
+Rifleman
+3
+12000
+800
+null
+40
+Piercing
+400
+Fast
+Medium
+Average
+?
+Archer
+Marine
+
+u11
+Pack Mule
+3
+10000
+500
+100
+5
+Normal
+Melee
+Very Fast
+Heavy
+Very Slow
+null
+Raccoon
+Horse
+
+u12
+Stone Golem
+3
+14000
+2500
+null
+25
+Siege
+Melee
+Slow
+Medium
+Average
+?
+Rock Golem
+Steel Golem
+
+u13
+Sea Turtle
+3
+15000
+2500
+null
+50
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Toad Man
+Sea Lord
+
+u14
+Flame Conjurer
+3
+15000
+550
+500
+20
+Magic
+400
+Slow
+Medium
+Average
+?
+Flame Apprentice
+Disciple of Fire
+
+u15
+Wizard
+3
+14000
+500
+500
+20
+Magic
+600
+Slow
+Medium
+Average
+?
+Apprentice
+Magician
+
+u16
+Hunting Dog
+3
+10000
+1000
+null
+20
+Normal
+Melee
+Very Fast
+Heavy
+Fast
+?
+Lap Dog
+Dire Wolf
+
+u17
+Captain
+3
+12000
+1500
+null
+30
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Footman
+Knight
+
+u18
+Marine
+4
+28000
+1500
+null
+70
+Piercing
+450
+Very Fast
+Medium
+Average
+?
+Rifleman
+>
+
+u19
+Horse
+4
+25000
+1000
+300
+20
+Normal
+Melee
+Fast
+Heavy
+Very Fast
+?
+Pack Mule
+>
+
+u10
+Steel Golem
+4
+31000
+5000
+null
+35
+Siege
+Melee
+Slow
+Medium
+Average
+?
+Stone Golem
+>
+
+u21
+Sea Lord
+4
+33000
+5500
+null
+100
+Normal
+Melee
+Slow
+Heavy
+Slow
+?
+Sea Turtle
+>
+
+u22
+Disciple of Fire
+4
+33000
+1500
+1000
+30
+Magic
+600
+Slow
+Medium
+Average
+?
+Flame Conjurer
+>
+
+u23
+Magician
+4
+31000
+1000
+1000
+30
+Magic
+600
+Slow
+Medium
+Average
+?
+Wizard
+>
+
+u24
+Dire Wolf
+4
+25000
+3000
+400
+30
+Normal
+Melee
+Very Fast
+Heavy
+Fast
+?
+Hunting Dog
+>
+
+u25
+Knight
+4
+28000
+3500
+null
+50
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Captain
+>
+
+u26
+Hazardous Chemical
+25000
+4
+500
+400
+25
+Normal
+Melee
+Fast
+Heavy
+Average
+?
+Basic Fighter
+>
+
+u27
+Mystical Eye
+4
+58000
+6500
+200
+100
+Magic
+600
+Very Fast
+Unarmored
+Average
+?
+Basic Fighter
+>
+
+u28
+Secret Spy
+4
+0
+1000
+300
+null
+null
+null
+null
+Light
+Fast
+True Sight,Invisibility
+Militia Commander,Militia Commander
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
